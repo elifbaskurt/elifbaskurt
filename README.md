@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **eliffbaskurttt@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Administrator/Desktop/genel%20belgeler/Elif%20ba%C5%9Fkurtcv.pdf](file:///C:/Users/Administrator/Desktop/genel%20belgeler/Elif%20ba%C5%9Fkurtcv.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/elif-ba%c5%9fkurt-3277182bb/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bgatp%2fnlxrx6w3oeblji18q%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elif-ba%c5%9fkurt-3277182bb/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bgatp%2fnlxrx6w3oeblji18q%3d%3d" height="30" width="40" /></a>
@@ -21,5 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elifbaskurt&show_icons=true&locale=en" alt="elifbaskurt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elifbaskurt&" alt="elifbaskurt" /></p>
 
